@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="mt-28 mx-auto md:w-2/4 px-5">
         <h3 className="text-center text-3xl font-bold md:text-5xl mb-12 md:w-[100%] m-auto">
-            Preencha os campos abaixo para obter a informação desejada gratuitamente
+            Não preencher campos, o formulário não funciona.
         </h3>
 
             <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
@@ -12,7 +12,7 @@ const Form = () => {
                         <div className="ml-form-embedWrapper embedForm">
                         <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">
                             <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
-                            <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/d6m8v4" data-code="d6m8v4" method="post" target="_blank">
+                            <form className="ml-block-form" action="#" data-code="d6m8v4" method="post" target="_blank">
                             <div className="ml-form-formContent">
                                 <div className="ml-form-fieldRow">
                                 <div className="ml-field-group ml-field-name">
