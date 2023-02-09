@@ -19,7 +19,6 @@ export default function Document() {
           defer={false}
           id="element">
         
-            {function ml_webform_success_5795111(){var r=ml_jQuery||jQuery;r(".ml-subscribe-form-5795111 .row-success").show(),r(".ml-subscribe-form-5795111 .row-form").hide()}}
         </Script>
       </body>
     </Html>
